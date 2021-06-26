@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jun 26 18:39:54 2021
+
+@author: User
+"""
+
+line-bot-sdk
+gunicorn
