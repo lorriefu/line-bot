@@ -7,3 +7,4 @@ Created on Sat Jun 26 18:39:54 2021
 
 line-bot-sdk
 gunicorn
+flask
